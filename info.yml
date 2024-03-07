@@ -41,3 +41,5 @@ charges:
   - electric
   - color
   - hyper
+neutrinos:
+  have_mass: true
