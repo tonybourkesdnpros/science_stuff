@@ -43,3 +43,5 @@ charges:
   - hyper
 neutrinos:
   have_mass: true
+USS_Enterprise:
+  captain: "James T Kirk"
