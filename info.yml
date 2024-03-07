@@ -1,0 +1,40 @@
+obvious:
+  water: wet
+  fire: hot
+  sky: blue
+planets:
+  - Mercury
+  - Venus
+  - Earth 
+  - Mars
+  - Jupiter
+  - Saturn
+  - Uranus
+  - Neptune
+standard_model:  
+  hadrons:
+    quarks:
+      - Up
+      - Down
+      - Bottom
+      - Top
+      - Strange
+      - Charm
+    leptons:
+      - Electron
+      - Muon
+      - Tau
+      - Electron Neutrino
+      - Muon Neutrino
+      - Tau Neutrino
+  bosons:
+    massless:
+      - photon
+      - gluons
+      - graviton
+    massive:
+      - Z
+      - W+
+      - W-
+      
+    
