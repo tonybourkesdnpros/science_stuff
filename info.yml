@@ -37,4 +37,7 @@ standard_model:
       - W+
       - W-
       - Higgs
-    
+charges:
+  - electric
+  - color
+  - hyper
